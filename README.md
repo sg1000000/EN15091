@@ -1,37 +1,235 @@
-## Welcome to GitHub Pages
+## 目录
 
-You can use the [editor on GitHub](https://github.com/sg1000000/EN15091/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### [前言](前言.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 1 范围
 
-### Markdown
+### 2 规范性引用文件
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 3 术语和定义 
 
-```markdown
-Syntax highlighted code block
+#### 3.1 冷水
 
-# Header 1
-## Header 2
-### Header 3
+#### 3.2 热水
 
-- Bulleted
-- List
+#### 3.3 阀
 
-1. Numbered
-2. List
+#### 3.4 常开或常闭（单稳态）阀门
 
-**Bold** and _Italic_ and `Code` text
+#### 3.5 闭锁（双稳态）阀门 
 
-[Link](url) and ![Image](src)
-```
+### 4 一般要求和测试
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### 4.1 标记
 
-### Jekyll Themes
+#### 4.2 材料
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sg1000000/EN15091/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### 4.2.1 化学和卫生要求
 
-### Support or Contact
+##### 4.2.2 暴露表面的条件
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 4.3 功能
+
+#### 4.4 防止污染
+
+#### 4.5 电气特性和要求
+
+##### 4.5.1 概述
+
+##### 4.5.2 电气安全
+
+##### 4.5.3 电磁阀的电气操作
+
+##### 4.5.4 电磁阀的电气强度和绝缘电阻
+
+##### 4.5.5 操作安全
+
+#### 4.6 密封性特征
+
+##### 4.6.1 概述
+
+##### 4.6.2 原则
+
+##### 4.6.3 仪器
+
+##### 4.6.4 密闭装置上游水龙头的密封性
+
+##### 4.6.5 在密闭装置打开的情况下，密闭装置下游的龙头密封性
+
+#### 4.7 耐压特性 - 压力下的机械性能
+
+##### 4.7.1 概述
+
+##### 4.7.2 原则
+
+##### 4.7.3 设备
+
+##### 4.7.4 程序
+
+##### 4.7.5 要求
+
+### 5 对龙头的要求和测试
+
+#### 5.1 范围
+
+#### 5.2 尺寸特征
+
+##### 5.2.1 概述
+
+##### 5.2.2 水平表面的明装龙头
+
+##### 5.2.3 安装在垂直表面上的明装龙头
+
+##### 5.2.4 龙头要嵌入带有螺纹的进水口和出水口
+
+##### 5.2.5 垂直表面的隐藏式龙头
+
+##### 5.2.6 水平表面的混温阀
+
+##### 5.2.7 安装在垂直表面的有可见主体的混温阀，并带有浮动螺母和偏心轮
+
+##### 5.2.8 带有相反进水口的混温阀
+
+##### 5.2.9 带流量调节器的出水嘴
+
+##### 5.2.10 特殊情况
+
+#### 5.3 水力特性
+
+##### 5.3.1 概述 
+
+##### 5.3.2 用于类型 1 供水系统的龙头的试验装置
+
+##### 5.3.3 流动试验原理
+
+##### 5.3.4 要求
+
+##### 5.3.5 冷热水之间的交叉流动
+
+#### 5.4 水锤
+
+##### 5.4.1 水锤试验原理
+
+##### 5.4.2 试验装置
+
+##### 5.4.3 程序
+
+##### 5.4.4 要求
+
+#### 5.5 耐力
+
+##### 5.5.1 概述
+
+##### 5.5.2 原则
+
+##### 5.5.3 单冷水龙头的程序
+
+##### 5.5.4 调温水龙头的程序
+
+##### 5.5.5 要求
+
+#### 5.6 声学特性
+
+##### 5.6.1 概述
+
+##### 5.6.2 程序
+
+###### 5.6.2.2 试验方法
+
+##### 5.6.3 要求
+
+### 6 小便器冲水阀的要求和试验
+
+#### 6.1 范围
+
+#### 6.2 定义
+
+##### 6.2.1 单冲冲洗小便阀
+
+##### 6.2.2 虹吸动作冲洗小便阀
+
+##### 6.2.3 冲洗小便阀的隔离阀
+
+#### 6.3 冲洗小便阀的分类
+
+#### 6.4 名称
+
+#### 6.5 尺寸特征
+
+#### 6.6 水力特性
+
+##### 6.6.1 总则
+
+##### 6.6.2 试验方法
+
+#### 6.7 小便冲洗阀水锤的测量
+
+##### 6.7.1 水锤试验原理
+
+##### 6.7.2 试验装置
+
+##### 6.7.3 程序
+
+##### 6.7.4 要求
+
+#### 6.8 机械耐力
+
+##### 6.8.1 总则
+
+##### 6.8.2 仪器
+
+### 7 WC 冲洗阀的要求和试验
+
+#### 7.1 范围
+
+#### 7.2 定义
+
+##### 7.2.1 WC 冲洗阀
+
+##### 7.2.2 WC 冲洗阀的截止阀
+
+##### 7.2.3 流量控制设备
+
+##### 7.2.4 冲洗量控制
+
+#### 7.3 分类
+
+##### 7.3.1 概述
+
+##### 7.3.2 6L 和 6L 至 9L 阀门
+
+##### 7.3.3 9L 阀门
+
+#### 7.4 尺寸特征
+
+#### 7.5 水力特性
+
+##### 7.5.1 概述
+
+##### 7.5.2 试验方法
+
+##### 7.5.3 在较低动压下测试流速/冲击力
+
+##### 7.5.4 在较低动压下测试流速/冲水量
+
+##### 7.5.5 在较高动压下测试冲洗流量/冲击力
+
+##### 7.5.6 水锤的测量
+
+#### 7.6 WC 冲洗阀常压管断流器的原理和验证
+
+#### 7.7 机械耐力
+
+##### 7.7.1 概述
+
+##### 7.7.2 程序
+
+##### 7.7.3 最低要求
+
+#### 7.8 声学特性
+
+##### 参考文献
+
+[1]EN 60730 - 1。家用及类似用途自动电气控制第 1 部分:一般要求(IEC 60730-1)
+
+[2]EN61000(所有部件)，电磁兼容性(EMC) (iec61000 系列)
