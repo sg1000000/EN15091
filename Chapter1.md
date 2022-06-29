@@ -28,13 +28,9 @@ The conditions of use for the supply system type are specified in Table 2:
 | 类型1 | 最大静态压力 | 1MPa(10bar)                          | 1MPa(10bar)                      | 0.8MPa(8bar)                         | 0.6MPa(6bar)                     |
 |       | 水温         | ≤75℃                                 | ≤75℃                             | ≤6℃                                  | ≤65℃                             |
 
-
-
 For Type 2, the manufacturer is to declare the minimum operating pressure at which opening, closing and the specified flow rate can be obtained.
 
 There is usually no acoustic classification for tapware used in supply systems of Type 2 and no specifications governing the level of noise emissions from these water installations. If supply pressures are such that excessive noise is generated it is recommended that pressure or flow regulators are fitted in the system. Or where practicable, tapware conforming to the appropriate acoustic classification are used.
-
-
 
 对于类型2，制造商应声明可获得开启、关闭和指定流量的最小工作压力。在2型供应系统中使用的标签件通常没有声学分类，也没有控制这些水设施的噪音排放水平的规范。如果供应压力产生过大的噪音，建议在系统中安装压力或流量调节器。或在切实可行的情况下，使用符合适当的声学分类的标记软件。
 
