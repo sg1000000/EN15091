@@ -147,9 +147,7 @@ c) Wait until the tap closes or actuate the closure of the tap.
 
 d) Repeat a), b), c) until the tap does not operate anymore.
 
-**4.5.5.4** 
-
-**Requirements for battery operated tapware**
+**4.5.5.4  Requirements for battery operated tapware**
 
 After finishing the test, the tap shall remain in closed position.
 
@@ -173,31 +171,23 @@ A hydraulic test circuit capable of supplying the required static and dynamic pr
 
 **4.6.4 Leaktightness of tapware upstream of the obturator**
 
-**4.6.4.1** 
-
-**Procedure**
+**4.6.4.1  Procedure**
 
 Connect the tapware to the test circuit with the outlet orifice open, and generally turned downwards.
 
 With the obturator closed, apply a static water pressure at the inlet of the tapware of (1,6 ± 0,05) MPa ((16 ± 0,5) bar) for (60 ± 5) s.
 
-**4.6.4.2** 
-
-**Requirements**
+**4.6.4.2 Requirements**
 
 Throughout the duration of the test there shall be no leakage at the obturator and no leakage or seepage through the walls.
 
 **4.6.5 Leaktightness of tapware downstream of the obturator with the obturator open**
 
-**4.6.5.1** 
-
-**General**
+**4.6.5.1  General**
 
 This test only applies to tapware (Clause 5) and urinal flushing valves (Clause 6).
 
-**4.6.5.2** 
-
-**Procedure**
+**4.6.5.2  Procedure**
 
 — Connect the tapware to the test circuit with the outlet orifice(s) artificially closed, and generally turned downwards;
 
@@ -207,9 +197,7 @@ This test only applies to tapware (Clause 5) and urinal flushing valves (Clause 
 
 — test is to be repeated at a pressure of (0,02 ± 0,005) MPa ((0,2 ± 0,05) bar) for (60 ± 5) s.
 
-**4.6.5.3** 
-
-**Requirements**
+**4.6.5.3  Requirements**
 
 Throughout the duration of the test there shall be no leakage or seepage through the walls.
 
