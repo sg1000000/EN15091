@@ -13,9 +13,7 @@ pin: true
 
 General comment on drawings:
 
-The design and construction of components without defined dimensions permit various design solutions to be 
-
-adopted by the manufacturer.
+The design and construction of components without defined dimensions permit various design solutions to be adopted by the manufacturer.
 
 Special cases are covered in 5.2.10.
 
@@ -23,9 +21,7 @@ Special cases are covered in 5.2.10.
 
 The standardized dimensions of electronic opening and closing tapware (see Figure 3 and Table 4) shall:
 
-— facilitate their mounting and interchangeability on sanitary appliances complying with EN 31, EN 35, EN 36, 
-
-and EN 695; 
+— facilitate their mounting and interchangeability on sanitary appliances complying with EN 31, EN 35, EN 36, and EN 695; 
 
 — provide various options for connecting to the water supply.
 
@@ -102,9 +98,7 @@ The standardized dimensions of electronic opening and closing tapware (see Figur
 |*D* (female)    |     G 1/2     |      G 3/4     |
 |*C*       |8 min.     |10 min.|
 
-In the event of a different inlet and outlet size the nominal size is that of the inlet, and the outlet size shall be stated 
-
-(e.g. In-line tapware G 1/2 B male with female outlet G 3/4 with inlet and outlet aligned).
+In the event of a different inlet and outlet size the nominal size is that of the inlet, and the outlet size shall be stated (e.g. In-line tapware G 1/2 B male with female outlet G 3/4 with inlet and outlet aligned).
 
 **5.2.5 Concealed tapware for vertical surfaces**
 
@@ -156,15 +150,9 @@ The standardized dimensions of electronic opening and closing tapware (see Figur
 
 The standardized dimensions of electronic opening and closing tapware shall:
 
-— inlet dimensions of mixing valves with opposed inlets comply with Figure 10 and Table 8 in the case of inlet 
-
-dimensions of mixing valves with opposed inlets;
+— inlet dimensions of mixing valves with opposed inlets comply with Figure 10 and Table 8 in the case of inlet dimensions of mixing valves with opposed inlets;
 
 — provide various options for connecting to the water supply
-
-
-
-
 
 
 
@@ -194,11 +182,7 @@ Nozzle outlets not in accordance with EN 246 are covered by 5.2.10.
 
 **5.2.10 Special cases**
 
-Tapware intended for special applications e.g. for installation on sanitary appliances not conforming with European 
-
-Standards or where dimensional interchangeability is not a requirement may incorporate dimensional deviations, 
-
-provided:
+Tapware intended for special applications e.g. for installation on sanitary appliances not conforming with European Standards or where dimensional interchangeability is not a requirement may incorporate dimensional deviations, provided:
 
 — all other requirements of this standard are satisfied;
 
@@ -208,6 +192,4 @@ provided:
 
 — suitable air gap dimension or a backflow prevention device is provided.
 
-The manufacturer's literature including the installation instructions supplied with the tapware shall indicate clearly 
-
-that the tapware has unique characteristics e.g. not standard dimensions.
+The manufacturer's literature including the installation instructions supplied with the tapware shall indicate clearly that the tapware has unique characteristics e.g. not standard dimensions.

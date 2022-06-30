@@ -75,9 +75,7 @@ The following cycle shall be repeated 70 000 times:
 
 The tap shall be opened and allowed to close using its normal mode of operation.
 
-If the tap is battery operated, the battery can be changed during the test. The number of times the battery is 
-
-changed shall be recorded.
+If the tap is battery operated, the battery can be changed during the test. The number of times the battery is changed shall be recorded.
 
 **5.5.5 Requirements**
 

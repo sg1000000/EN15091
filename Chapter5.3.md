@@ -13,11 +13,7 @@ pin: true
 
 The tests described are type tests (laboratory tests), not quality control tests carried out during manufacture.
 
-This clause gives a test method for measuring the flow rate and the cross-flow between the hot and cold water 
-
-supply for a given pressure.
-
-
+This clause gives a test method for measuring the flow rate and the cross-flow between the hot and cold water supply for a given pressure.
 
 **5.3.2 Test apparatus for tapware intended for Type 1 water supply systems**
 
@@ -65,9 +61,7 @@ Each inlet to the tap or mixing valve comprises:
 
 a) piping made from a rigid metal tube, of diameter and length in accordance with the dimensions in Table 9; 
 
-b) reinforced flexible hoses, 500 mm long with a minimum internal diameter equal to that of the rigid metal tube, 
-
-with a device for connecting to the tapware;
+b) reinforced flexible hoses, 500 mm long with a minimum internal diameter equal to that of the rigid metal tube, with a device for connecting to the tapware;
 
 c) device for measuring the flow rates (measurement accuracy ± 2 %);
 
@@ -177,7 +171,7 @@ The test is carried out with cold water:
 
 — at a dynamic pressure of (0,3 ± 0,02) MPa ((3,0 ± 0,2) bar) for tapware intended for Type 1 supply systems;
 
-— at a dynamic pressure of (0,01 ± 0,002) MPa ((0,1 ± 0,02) bar) for tapware intended for Type 2 supply systems.
+— at a dynamic pressure of (0,01 ± 0,002) MPa ((0,1 ± 0,02) bar) for tapware intended for Type 2 supply systems. 
 
 Mixing valves are tested in the hot, cold and mid blend positions with cold water.
 

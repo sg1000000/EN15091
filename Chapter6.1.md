@@ -8,3 +8,9 @@ pin: true
 ---
 
 #### 6.1 范围
+
+These subclauses specify the requirements for electrically or electronically operated opening and closing flushing valves for urinals.
+
+They are not applicable to mechanical or electric/electronic opening and closing single/combination taps, automatic shut-off valves and WC flushing valves.
+
+The conditions of use are given in Table 2.

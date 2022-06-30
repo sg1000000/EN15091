@@ -20,3 +20,7 @@ Connecting thread and outlet pipe dimensions shall comply with the values specif
 Side-entry WC flushing valves shall comply with the dimensions specified in Figure 18.
 
 Top-entry flushing valves shall comply with the dimensions specified in Figure 19.
+
+**Figure 18 — Side-entry WC flushing valves** 
+
+**Figure 19 — Top-entry WC flushing valves**

@@ -7,9 +7,7 @@ tags: [标准，EN15091]
 pin: true
 ---
 
-**7.1 Scope**
-
-**7.1 范围**
+**7.1 Scope 范围**
 
 These subclauses specify requirements for electrically or electronically operated opening and closing WC flushing valves which are intended to be connected directly to a mains water supply pipe.
 

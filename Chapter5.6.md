@@ -29,7 +29,7 @@ The tests are carried out in accordance with EN ISO 3822-1, EN ISO 3822-2 and EN
 
 **5.6.3.1  Expression of results**
 
-The results of the measurements taken in accordance with EN ISO 3822-1 through EN ISO 3822−4 are expressed by the acoustic level of the tapware *L*ap in dB(A).
+The results of the measurements taken in accordance with EN ISO 3822-1 through EN ISO 3822−4 are expressed by the acoustic level of the tapware Lap in dB(A).
 
 **5.6.3.2  Determination of the acoustic group**
 
