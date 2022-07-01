@@ -21,6 +21,10 @@ Side-entry WC flushing valves shall comply with the dimensions specified in Figu
 
 Top-entry flushing valves shall comply with the dimensions specified in Figure 19.
 
+![Figure 18.png](https://s2.loli.net/2022/07/01/IElmdsrZYP24hou.png)
+
 **Figure 18 — Side-entry WC flushing valves** 
+
+![Figure 19.png](https://s2.loli.net/2022/07/01/QdJE7Kx3r2lsaXO.png)
 
 **Figure 19 — Top-entry WC flushing valves**

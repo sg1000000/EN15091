@@ -31,6 +31,8 @@ In this subclause, the corresponding requirements are specified.
 
 The WC flushing valve is assembled with a flushing pipe corresponding with the nominal size DN in accordance with Table 20. 
 
+![Figure 20.png](https://s2.loli.net/2022/07/01/nDLSQH6ZbqUcBiz.png)
+
 **Figure 20 — Flushing pipe**
 
 **Table 20 — Flushing pipe dimensions**

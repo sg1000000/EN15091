@@ -1,5 +1,5 @@
 ---
-title: 4-一般要求与测试
+title: 4 一般要求与测试 General requirements and testing
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,7 +7,7 @@ tags: [标准,EN15091]
 pin:true
 ---
 
-**4 General requirements and testing**
+### 4  一般要求与测试General requirements and testing
 
 **4.1 Marking**
 
@@ -35,9 +35,7 @@ Visible chromium plated surfaces and Ni-Cr coatings shall comply with the requir
 
 Tapware shall be actuated as intended by the manufacturer i.e. as described in the manufacturer’s instructions.
 
-Tapware shall be tested so that all functions declared in the manufacturer’s instructions are verified. The tests shall 
-
-be conducted twice. The requirements of this standard are satisfied if all functions are completed satisfactorily.
+Tapware shall be tested so that all functions declared in the manufacturer’s instructions are verified. The tests shall be conducted twice. The requirements of this standard are satisfied if all functions are completed satisfactorily.
 
 **4.4 Protection against pollution**
 
@@ -117,15 +115,11 @@ Actuate the tap.
 
 Cut off the electrical supply.
 
-**4.5.5.2** 
-
-**Requirements for mains operated tapware**
+**4.5.5.2 Requirements for mains operated tapware**
 
 The tapware shall always close.
 
-**4.5.5.3** 
-
-**Test procedure for battery operated tapware**
+**4.5.5.3 Test procedure for battery operated tapware**
 
 The test is conducted with cold water.
 

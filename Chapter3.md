@@ -1,5 +1,5 @@
 ---
-title: 3-术语与定义
+title: 3 术语与定义 Terms and definitions
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,7 +7,7 @@ tags: [标准,EN15091]
 pin:true
 ---
 
-**3 Terms and definitions**
+### **3 术语与定义 Terms and definitions**
 
 For the purposes of this document, the following terms and definitions apply.
 

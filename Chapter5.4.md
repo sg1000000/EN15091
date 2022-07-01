@@ -19,7 +19,7 @@ The principle is to verify, that the peak of pressure is limited when the tap cl
 
 A test rig as described in Figure 15 is to be used:
 
-
+![Figure 15.png](https://s2.loli.net/2022/07/01/eTClngiOPYGm5t3.png)
 
 **Key**
 

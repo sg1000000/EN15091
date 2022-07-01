@@ -27,7 +27,7 @@ This comprises:
 
 **5.3.2.2  Supply circuits type 1**
 
-
+![Figure 11.png](https://s2.loli.net/2022/07/01/rRq12xIlFy5Ep4A.png)
 
 **Key**
 
@@ -73,11 +73,7 @@ f) system for recording the test conditions and results is appropriate.
 
 Dimensions in millimetres
 
-
-
-
-
-
+![Figure 12.png](https://s2.loli.net/2022/07/01/w721X4n6CMkrLRD.png)
 
 **Key**
 
@@ -97,10 +93,6 @@ Dimensions in millimetres
 
 **Figure 12 — Test circuits for tapware intended for Type 1 water supply systems**
 
-
-
-
-
 **Table 9 — Dimensions of pipework**
 
 
@@ -117,17 +109,11 @@ Only the cold water supply shown in Figure 11 is used for the tests.
 
 Depending on the type of mixing valve, one of the mounting arrangements shown in Figure 13 shall be used:
 
-
-
-
+![Figure 13.png](https://s2.loli.net/2022/07/01/9B4YCWoVeUgtLfJ.png)
 
 **Key**
 
 1 flexible hose
-
-
-
-
 
 **Figure 13 — Mounting of mixing valves**
 
@@ -135,9 +121,7 @@ Depending on the type of mixing valve, one of the mounting arrangements shown in
 
 A test rig as shown in Figure 14 shall be used.
 
-
-
-
+![Figure 14.png](https://s2.loli.net/2022/07/01/UetL5ql9ZrduaSY.png)
 
 **Key**
 
@@ -178,8 +162,6 @@ Mixing valves are tested in the hot, cold and mid blend positions with cold wate
 The least favourable values are recorded.
 
 The tapware is to be operated following the manufacturer’s instructions.
-
-
 
 
 

@@ -25,11 +25,9 @@ The standardized dimensions of electronic opening and closing tapware (see Figur
 
 — provide various options for connecting to the water supply.
 
-
+![Figure 3.png](https://s2.loli.net/2022/07/01/lZdVUhuYnC6kTPO.png)
 
 **Figure 3 — Tap with visible body for horizontal surface**
-
-
 
 **Table 4 — Dimensions**
 
@@ -57,6 +55,8 @@ The standardized dimensions of electronic opening and closing tapware (see Figur
 
 — provide various options for connecting to the water supply.
 
+![Figure 4.png](https://s2.loli.net/2022/07/01/Qp9NRhdnWoPBZtq.png)
+
 **Figure 4 — Threaded inlets of taps with visible body for mounting on vertical surfaces**
 
 **Table 5 — Dimensions of threaded inlets**
@@ -76,6 +76,8 @@ The standardized dimensions of electronic opening and closing tapware (see Figur
 
 — provide various options for connecting to the water supply.
 
+![Figure 5.png](https://s2.loli.net/2022/07/01/VMuCFga3JrjqXOA.png)
+
 **Figure 5 — Tapware with inlets and outlets aligned**
 
 **5.2.4.2** 
@@ -87,6 +89,8 @@ The standardized dimensions of electronic opening and closing tapware (see Figur
 — comply with Figure 6 and Table 6 in the case of inlet dimensions;
 
 — provide various options for connecting to the water supply.
+
+![Figure 6.png](https://s2.loli.net/2022/07/01/gymLnY2F9OeXkWQ.png)
 
 **Figure 6 — Tapware with inlets and outlets at right angles**
 
@@ -124,11 +128,13 @@ The standardized dimensions of electronic opening and closing mixing valves (see
 
 **5.2.6.2  Supply by tube**
 
+![Figure 7.png](https://s2.loli.net/2022/07/01/KoWxy1XIfBAG5uD.png)
+
 **Figure 7 — Mixing valves for horizontal mounting threaded inlet**
 
+![Figure 8.png](https://s2.loli.net/2022/07/01/VJcCURYWwr5qfn7.png)
+
 **Figure 8 — Mixing valves for horizontal mounting,stud connection**
-
-
 
 **Table 7 — Dimensions of mixing valves**
 
@@ -154,13 +160,11 @@ The standardized dimensions of electronic opening and closing tapware shall:
 
 — provide various options for connecting to the water supply
 
-
+![Figure 9.png](https://s2.loli.net/2022/07/01/StnrN8hj2IQEfu1.png)
 
 **Figure 9 — Mixing valve with captive nuts and eccentric unions**
 
-
-
-
+![Figure 10.png](https://s2.loli.net/2022/07/01/1mIQnpZtwqVflPc.png)
 
 **Figure 10 — Mixer with opposed inlets**
 

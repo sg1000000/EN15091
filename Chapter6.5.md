@@ -24,7 +24,10 @@ Connecting threads shall comply with the dimensions specified in Table 15 (see F
 
 <sup>a</sup>   If the urinal connecting pipe is supplied with the valve, dimensions A and D are not mandatory at the outlet.
 
+![Figure 16.png](https://s2.loli.net/2022/07/01/v7NbjS4mICWZqkB.png)
+
 **Figure 16 — Top-entry urinal flushing valve** 
 
-**Figure 17 — Side-entry urinal flushing valve**
+![Figure 17.png](https://s2.loli.net/2022/07/01/T5GYZKhop7WbUJP.png)
 
+**Figure 17 — Side-entry urinal flushing valve**

@@ -1,5 +1,5 @@
 ---
-title: 2-规范性引用文件
+title: 2 规范性引用文件 Normative references
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,9 +7,7 @@ tags: [标准,EN15091]
 pin: true
 ---
 
-
-
-### 规范性引用文件
+### 2 规范性引用文件 **Normative references** 
 
 The following documents, in whole or in part, are normatively referenced in this document and are indispensable for its application. For dated references, only the edition cited applies. For undated references, the latest edition of the referenced document (including any amendments) applies.
 
@@ -95,48 +93,36 @@ EN 60529，附件提供的保护等级(IP代码)(IEC 60529)
 
 
 
-EN 60730-2-8, *Automatic electrical controls for household and similar use — Part 2-8: Particular requirements for* 
-
-*electrically operated water valves, including mechanical requirements (IEC 60730-2-8)*
+EN 60730-2-8, *Automatic electrical controls for household and similar use — Part 2-8: Particular requirements for* *electrically operated water valves, including mechanical requirements (IEC 60730-2-8)*
 
 EN 60730-2-8, 家用和类似用途的自动电气控制。第2-8部分:电动水阀的特殊要求，包括机械要求(IEC 60730-2-8)
 
 
 
-EN 61000-6-1, *Electromagnetic compatibility (EMC) — Part 6-1: Generic standards — Immunity for residential,* 
-
-*commercial and light-industrial environments (IEC 61000-6-1)*
+EN 61000-6-1, *Electromagnetic compatibility (EMC) — Part 6-1: Generic standards — Immunity for residential,* *commercial and light-industrial environments (IEC 61000-6-1)*
 
 EN 61000-6-1，电磁兼容性(EMC) .第6-1部分:通用标准。住宅、商业和轻工业环境的抗扰性(IEC 61000-6-1)
 
 
 
-EN 61000-6-3, *Electromagnetic compatibility (EMC) — Part 6-3: Generic standards — Emission standard for* 
-
-*residential, commercial and light-industrial environments (IEC 61000-6-3)*
+EN 61000-6-3, *Electromagnetic compatibility (EMC) — Part 6-3: Generic standards — Emission standard for* *residential, commercial and light-industrial environments (IEC 61000-6-3)*
 
 EN 61000-6-3，电磁兼容性(EMC) .第6-3部分:住宅、商业和轻工业环境通用标准
 
 
 
-EN ISO 228-1, *Pipe threads where pressure-tight joints are not made on the threads — Part 1: Dimensions,* 
-
-*tolerances and designation (ISO 228-1)*
+EN ISO 228-1, *Pipe threads where pressure-tight joints are not made on the threads — Part 1: Dimensions,* *tolerances and designation (ISO 228-1)*
 
 EN ISO 228-1，非承压接头管螺纹第1部分:尺寸、公差和名称(ISO 228-1)
 
 
 
-EN ISO 3822 (all parts), *Acoustics — Laboratory tests on noise emission from appliances and equipment used in* 
-
-*water supply installations (ISO 3822, all parts)*
+EN ISO 3822 (all parts), *Acoustics — Laboratory tests on noise emission from appliances and equipment used in water supply installations (ISO 3822, all parts)*
 
 EN ISO 3822(所有部件)声学。供水装置中使用的器具和设备噪声的实验室试验(SO 3822，所有部件)
 
 
 
-EN ISO 5167-1, *Measurement of fluid flow by means of pressure differential devices inserted in circular cross*
-
-*section conduits running full — Part 1: General principles and requirements (ISO 5167-1)*
+EN ISO 5167-1, *Measurement of fluid flow by means of pressure differential devices inserted in circular cross-section conduits running full — Part 1: General principles and requirements (ISO 5167-1)*
 
 EN ISO 5167-1，通过插入圆形横截面全流道的压差装置测量流体流动 - 第1部分:一般原理和要求

@@ -1,5 +1,5 @@
 ---
-title: 5-龙头的要求和测试
+title: 5 龙头的要求和测试 Requirements and testing for tapware
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,13 +7,9 @@ tags: [标准,EN15091]
 pin: true
 ---
 
-**5 Requirements and testing for tapware**
+### **5 龙头的要求和测试 Requirements and testing for tapware**
 
-[**5.1 Scope**](Chapter5.1.md)
-
-5.1 范围
-
-
+[**5.1 范围 Scope**](Chapter5.1.md)
 
 [**5.2 Dimensional characteristics**](Chapter5.2.md)
 

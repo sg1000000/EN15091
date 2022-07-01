@@ -1,11 +1,13 @@
 ---
-title: 1-范围
+title: 1 范围 Scope
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
 tags: [标准,EN15091]
 pin: true
 ---
+
+### 1 范围 Scope
 
 The purpose of this European Standard is to define requirements for marking, identification, leaktightness, electrical and operational safety and mechanical resistance for sanitary tapware with opening and closing controlled electronically.
 
@@ -34,8 +36,49 @@ There is usually no acoustic classification for tapware used in supply systems o
 
 对于类型2，制造商应声明可获得开启、关闭和指定流量的最小工作压力。在2型供应系统中使用的标签件通常没有声学分类，也没有控制这些水设施的噪音排放水平的规范。如果供应压力产生过大的噪音，建议在系统中安装压力或流量调节器。或在切实可行的情况下，使用符合适当的声学分类的标记软件。
 
-
-
 Annex B lists possible consequences of using a product outside its recommended operating range.
 
 附件 B 列出了使用超出其他建议操作范围的产品的可能后果。
+
+Annex B lists possible consequences of using a product outside its recommended operating range.
+
+
+![Figure 1.png](https://s2.loli.net/2022/07/01/FANan26C1qIwu8l.png)
+
+
+**Key**
+
+1 cold water 
+
+2 hot water 
+
+3 mains supply pipe (Supply pressures from (0,05 to 1,0) MPa ((0,5 - 10) bar)
+
+4 water heater
+
+**Figure 1 —Type 1 — Supply system with a pressure range of (0,05 to 1,0) MPa ((0,5 to 10) bar)**
+
+
+![Figure 2.png](https://s2.loli.net/2022/07/01/OQkSZfycIPYelHJ.png)
+**Key** 
+
+1 cold water storage cistern (cover omitted for clarity)
+
+2 warning pipe
+
+3 vent pipe
+
+4 hot water cylinder
+
+5 alternative cistern fed cold supply to sanitary appliances
+
+6 to boiler
+
+7 mains supply pipe (Supply pressures up to 8 bar)
+
+
+**Figure 2 — Type 2 — Supply system with a pressure range of (0,01 to 0,8) MPa ((0,1 to 8) bar)**
+
+A vented domestic hot water and cold water supply system incorporating gravity hot water, mains cold water and 
+
+alternative gravity cold water supply to sanitary appliances.

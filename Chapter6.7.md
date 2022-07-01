@@ -1,5 +1,5 @@
 ---
-title: 小便冲洗阀水锤的测量 Measurement of water hammer for urinal flushing valves**
+title: 6.7 小便冲洗阀水锤的测量 Measurement of water hammer for urinal flushing valves**
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]

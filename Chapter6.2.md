@@ -1,5 +1,5 @@
 ---
-title: 6.2 定义
+title: 6.2 定义 Definitions
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,7 +7,7 @@ tags: [标准,EN15091]
 pin: true
 ---
 
-#### 6.2 Definitions 定义
+#### 6.2 定义 Definitions
 
 **6.2.1 Single flush urinal valves 单冲冲洗小便阀**
 
