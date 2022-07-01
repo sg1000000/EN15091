@@ -11,21 +11,23 @@ pin:true
 
 For the purposes of this document, the following terms and definitions apply.
 
-**3.1  cold water**
+**3.1  cold water 冷水**
 
 water with a temperature less than 25 C
 
-**3.2  hot water**
+**3.2  hot water 热水**
 
 water with a temperature between 52 °C and 75 °C
 
-**3.3  valve**
+**3.3  valve 阀**
 
 electrically operated obturator for controlling the flow of water
 
-**3.4  normally open or normally closed (monostable) valve**
+**3.4  normally open or normally closed (monostable) valve  常开或常闭(单稳态)阀门**
 
-obturation system continuously fed electrically while operated
+obturation system continuously fed electrically while operated 
+
+
 
 **3.5  latching (bistable) valve**
 

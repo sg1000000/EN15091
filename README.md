@@ -2,7 +2,7 @@
 
 ### Sanitary tapware — Electronic opening and closing sanitary tapware
 
-### [前言 Preface](Preface.md)
+### [引言 Preface](Introduction.md)
 
 ### [1 范围 Scope](Chapter1.md)
 
