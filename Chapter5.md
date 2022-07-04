@@ -11,9 +11,9 @@ pin: true
 
 [**5.1 范围 Scope**](Chapter5.1.md)
 
-[**5.2 Dimensional characteristics**](Chapter5.2.md)
+[**5.2 尺寸特征 Dimensional characteristics**](Chapter5.2.md)
 
-**5.2.1 General**
+**5.2.1 概述 General**
 
 **5.2.2 Tap with visible body for horizontal surfaces**
 
@@ -43,7 +43,7 @@ pin: true
 
 **5.2.10 Special cases**
 
-[**5.3 Hydraulic characteristics**](Chapter5.3.md)
+[**5.3 水力特征 Hydraulic characteristics**](Chapter5.3.md)
 
 **5.3.1 General**
 
@@ -73,7 +73,7 @@ pin: true
 
 **5.3.5.2  Procedure**
 
-[**5.4 Water hammer**](Chapter5.4.md)
+[**5.4 水锤 Water hammer**](Chapter5.4.md)
 
 **5.4.1 Principle of water hammer test**
 
@@ -83,7 +83,7 @@ pin: true
 
 **5.4.4 Requirements**
 
-[**5.5 Endurance**](Chapter5.5.md)
+[**5.5 耐力 Endurance**](Chapter5.5.md)
 
 **5.5.1 General**
 
@@ -95,7 +95,7 @@ pin: true
 
 **5.5.5 Requirements**
 
-[**5.6 Acoustic characteristics**](Chapter5.6.md)
+[**5.6 声学特性 Acoustic characteristics**](Chapter5.6.md)
 
 **5.6.1 General**
 
