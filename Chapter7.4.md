@@ -1,5 +1,5 @@
 ---
-title: 7.4 尺寸特征
+title: 7.4 尺寸特征 Dimensional characteristics**
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,9 +7,7 @@ tags: [标准，EN15091]
 pin: true
 ---
 
-#### 7.4 尺寸特征
-
-**7.4 Dimensional characteristics**
+#### 7.4 尺寸特征 Dimensional characteristics
 
 Connecting thread and outlet pipe dimensions shall comply with the values specified in Table 18 and Table 19.
 

@@ -1,5 +1,5 @@
 ---
-title: 6.3 冲洗小便阀的分类
+title: 6.3 冲洗小便阀的分类 Classification of flushing urinal valves
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]

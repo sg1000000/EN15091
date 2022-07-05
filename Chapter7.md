@@ -1,5 +1,5 @@
 ---
-title: 7 WC 冲洗阀的要求和试验
+title: 7 WCs 冲洗阀的要求和试验 Requirements and testing for flushing alves for WCs
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,50 +7,18 @@ tags: [标准，EN15091]
 pin: true
 ---
 
-#### [7.1 范围](Chapter7.1.md)
+#### [7.1 范围 Scope](Chapter7.1.md)
 
-#### [7.2 定义](Chapter7.2.md)
+#### [7.2 定义 Definitions](Chapter7.2.md)
 
-##### 7.2.1 WC 冲洗阀
+#### [7.3 分类 Classification](Chapter7.3.md)
 
-##### 7.2.2 WC 冲洗阀的截止阀
+#### [7.4 尺寸特征 Dimesional characteristics](Chapter7.4.md)
 
-##### 7.2.3 流量控制设备
+#### [7.5 水力特性 Hydraulic  characteristics](Chapter7.5.md)
 
-##### 7.2.4 冲洗量控制
+#### [7.6 WC 冲洗阀常压管断流器的原理和验证 Principle and verification of atmospheric pipe interrupters of WC flushing valves ](Chapter7.6.md)
 
-#### [7.3 分类](Chapter7.3.md)
+#### [7.7 机械耐力 Mechanical endurance](Chapter7.7.md)
 
-##### 7.3.1 概述
-
-##### 7.3.2 6L 和 6L 至 9L 阀门
-
-##### 7.3.3 9L 阀门
-
-#### [7.4 尺寸特征](Chapter7.4.md)
-
-#### [7.5 水力特性](Chapter7.5.md)
-
-##### 7.5.1 概述
-
-##### 7.5.2 试验方法
-
-##### 7.5.3 在较低动压下测试流速/冲击力
-
-##### 7.5.4 在较低动压下测试流速/冲水量
-
-##### 7.5.5 在较高动压下测试冲洗流量/冲击力
-
-##### 7.5.6 水锤的测量
-
-#### [7.6 WC 冲洗阀常压管断流器的原理和验证](Chapter7.6.md)
-
-#### [7.7 机械耐力](Chapter7.7.md)
-
-##### 7.7.1 概述
-
-##### 7.7.2 程序
-
-##### 7.7.3 最低要求
-
-#### [7.8 声学特性](Chapter7.8.md)
+#### [7.8 声学特性 Acoustic characteristics](Chapter7.8.md)

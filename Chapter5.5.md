@@ -1,5 +1,5 @@
 ---
-title: 5.5 Endurance
+title: 5.5 耐力 Endurance
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,7 +7,7 @@ tags: [标准,EN15091]
 pin: true
 ---
 
-**5.5 Endurance**
+**5.5 耐力 Endurance**
 
 **5.5.1 General**
 

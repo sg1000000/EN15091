@@ -1,5 +1,5 @@
 ---
-title: 5.6 Acoustic characteristics
+title: 5.6 声学特性 Acoustic characteristics
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,7 +7,7 @@ tags: [标准,EN15091]
 pin: true
 ---
 
-**5.6 Acoustic characteristics**
+**5.6 声学特性 Acoustic characteristics**
 
 **5.6.1 General**
 

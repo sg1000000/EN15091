@@ -1,5 +1,5 @@
 ---
-title: 5.2 Dimensional characteristics
+title: 5.2 尺寸特征 Dimensional characteristics
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,39 +7,49 @@ tags: [标准,EN15091]
 pin: true
 ---
 
-**5.2 Dimensional characteristics**
+**5.2 尺寸特征 Dimensional characteristics**
 
-**5.2.1 General**
+**5.2.1 概述 General**
 
-General comment on drawings:
+General comment on drawings 图纸概述:
 
 The design and construction of components without defined dimensions permit various design solutions to be adopted by the manufacturer.
 
+没有确定尺寸的部件的设计和施工允许制造商采用各种设计解决方案。
+
 Special cases are covered in 5.2.10.
 
-**5.2.2 Tap with visible body for horizontal surfaces**
+特殊情况详见5.2.10。
+
+**5.2.2 Tap with visible body for horizontal surfaces 水平表面的明装龙头** 
 
 The standardized dimensions of electronic opening and closing tapware (see Figure 3 and Table 4) shall:
 
+电子开关龙头的标准尺寸（见图 3 和表 4）应：
+
 — facilitate their mounting and interchangeability on sanitary appliances complying with EN 31, EN 35, EN 36, and EN 695; 
+
+便于在符合 EN 31，EN 35，EN 36 和 EN 695 标准的卫生设备上安装和互换；
 
 — provide various options for connecting to the water supply.
 
+提供各种连接到供水系统的选项。
+
 ![Figure 3.png](https://s2.loli.net/2022/07/01/lZdVUhuYnC6kTPO.png)
 
-**Figure 3 — Tap with visible body for horizontal surface**
+**Figure 3 — Tap with visible body for horizontal surface 水平表面的明装龙头** 
 
-**Table 4 — Dimensions**
+**Table 4 — Dimensions 尺寸**
 
-| **Dimension** | **Values mm**      | **Comments**                                                 |
-| ------------- | ------------------ | ------------------------------------------------------------ |
-| A             | G 1/2 B or G 3/4 B |                                                              |
-| B             | 29 max.            |                                                              |
-| C             | 11 min.            |                                                              |
-| D             | 90 min.            | Dimension from the centre of the outlet orifice as supplied. |
-| E<sup>a</sup> | 25 min.            | Dimension from lowest point of the outlet orifice to the mounting surface for |
-| G             | 45 min.            | taps intended for Type 1 supply systems and taps intended for Type 2 supply Smallest dimension of the tap base |
-| L             |                    | systems – except sinks. Value that enables the tapware to be mounted on a support between 1 mm and 18 mm in |
+| **Dimension<br> 尺寸** | **Values mm**          | **Comments 注解**                                            |
+| ---------------------- | ---------------------- | ------------------------------------------------------------ |
+| A                      | G 1/2 B or <br>G 3/4 B |                                                              |
+| B                      | 29 max.                |                                                              |
+| C                      | 11 min.                |                                                              |
+| D                      | 90 min.                | Dimension from the centre of the outlet orifice as supplied.<br>从龙头体中心安装孔到出水口距离 |
+| E<sup>a</sup>          | 25 min.                | Dimension from lowest point of the outlet orifice to the mounting surface for <br/>taps intended for Type 1 supply systems and taps intended for Type 2 supply <br/>systems – except sinks.<br>从出口孔最低点到安装表面的尺寸用于1型供应系统的水龙头和<br>用于2型供应系统的水龙头系统-除了水槽。 |
+| G                      | 45 min.                | Smallest dimension of the tap base<br>底座的最小尺寸         |
+| L                      |                        | Value that enables the tapware to be mounted on a support between 1 mm <br/>and 18 mmin thickness and connected to the water supply.<br>该值使水龙头可安装在厚度在 1 毫米至 18 毫米之间的支架上，并连接到供水系统上。 |
 
 <sup>a</sup> Larger dimensions may be required per national regulatory provisions.
 

@@ -1,5 +1,5 @@
 ---
-title: 5.3 Hydraulic characteristics
+title: 5.3 水力特征 Hydraulic characteristics
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,7 +7,7 @@ tags: [标准,EN15091]
 pin: true
 ---
 
-**5.3 Hydraulic characteristics**
+**5.3 水力特征 Hydraulic characteristics**
 
 **5.3.1 General**
 

@@ -1,5 +1,5 @@
 ---
-title: 5.4 Water hammer
+title: 5.4 水锤 Water hammer
 author: songgen80
 date: 2022-01-02 20:55:00 +0800
 categories: [标准]
@@ -7,7 +7,7 @@ tags: [标准,EN15091]
 pin: true
 ---
 
-**5.4 Water hammer**
+**5.4 水锤 Water hammer**
 
 **5.4.1 Principle of water hammer test**
 

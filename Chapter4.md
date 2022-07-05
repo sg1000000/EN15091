@@ -153,7 +153,7 @@ Cut off the electrical supply.
 
 **4.5.5.2 Requirements for mains operated tapware 交流供电的龙头的要求**
 
-The tapware shall always close. 龙头英始终保持关闭。
+The tapware shall always close. 龙头应始终保持关闭。
 
 **4.5.5.3 Test procedure for battery operated tapware 电池供电的龙头的测试程序**
 
@@ -195,7 +195,7 @@ c) Wait until the tap closes or actuate the closure of the tap.
 
 d) Repeat a), b), c) until the tap does not operate anymore.
 
-重复 a）、b）、c）直到水龙头不再运行
+重复 a）、b）、c）直到水龙头不再运行。
 
 **4.5.5.4  Requirements for battery operated tapware 电池供电的龙头的要求**
 
