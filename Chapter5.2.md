@@ -175,7 +175,7 @@ The standardized dimensions of electronic opening and closing mixing valves (see
 | U             | 350 min.                                                     | May be reduced down to 220 subject to agreement between the <br/>manufacturer and the customer |
 | V             | 32 max.                                                      | Maximal dimension of projection to rear measured from axis of <br/>diameter J |
 
-**L and L<sub>1  Value that enables the tapware to be mounted on a support from 1 mm to 18 mm thickness.*
+**L and L<sub>1</sub>**  *Value that enables the tapware to be mounted on a support from 1 mm to 18 mm thickness.*
 
 **<sup>a</sup>**  *Larger dimensions may be required per national regulatory provisions.*
 
